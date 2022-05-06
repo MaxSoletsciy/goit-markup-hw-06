@@ -399,6 +399,7 @@ border-color: var(--accent-color);
 	height: 122px;
 	padding: 12px 16px;
 	resize: none;
+	margin-bottom: 0;
 }
 
 .textarea::placeholder {
@@ -411,6 +412,7 @@ border-color: var(--accent-color);
 
 .policy {
 	margin-bottom: 30px;
+	margin-top: 20px;
 }
 
 .link-contract {
@@ -753,7 +755,7 @@ border-color: var(--accent-color);
 
 .footer-network {
 	margin-left: 70px;
-	margin-right: 93px;
+	margin-right: auto;
 }
 
 .footer-list-networks {
